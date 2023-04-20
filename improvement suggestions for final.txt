@@ -1,0 +1,8 @@
+UNSW NB-15
+CICIDS 2017
+model training approach scross multiple dataset
+
+word embedding
+
+
+conf matrix
